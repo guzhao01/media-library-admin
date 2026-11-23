@@ -1,0 +1,9 @@
+name = "personal-asset-hub"
+main = "src/index.js"
+compatibility_date = "2026-11-24"
+
+[vars]
+GITHUB_OWNER = "guzhao1"
+PUBLIC_REPO = "media-library-assets"
+PRIVATE_REPO = "media-library-private"
+GITHUB_BRANCH = "main"
